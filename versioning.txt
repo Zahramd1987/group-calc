@@ -1,0 +1,38 @@
+
+
+0.0.0 (2023/02/11)
+------------------
+- calculator
+
+
+0.1.0 (2023/02/12)
+------------------
+- Added multiplication functionality to it (*)
+
+0.2.0 (2023/02/12)
+------------------
+- Added the ability to split it (/)
+
+0.3.0 (2023/02/12)
+------------------
+- Added subtraction functionality to it (-)
+
+0.4.0 (2023/02/13)
+------------------
+
+- Added collapsible functionality to it (+)
+
+0.5.0 (2023/02/13)
+------------------
+- Added factorialization to (n!)
+
+
+
+
+0.2.1 (2023/02/13)
+-----------------
+Bugfixes : we change some variable in our project and define NUM1 and NUM2
+
+0.6.0 (2023/02/13)
+------------------
+- use '.FORMAT' method 
